@@ -1,0 +1,22 @@
+version: '3'
+services:
+  server:
+    build: ./apps/server
+    container_name: user-io-server
+  client:
+    build: ./apps/client
+    ports:
+    - "8080:8080"
+    links:
+    - server
+    container_name: user-io-client
+  selenium:
+    image: selenium/standalone-chrome:3.8.1-dubnium
+    ports:
+    - "4444:4444"
+    container_name: user-io-selenium
+  test:
+    build: ./test
+    links:
+    - selenium
+    container_name: user-io-test

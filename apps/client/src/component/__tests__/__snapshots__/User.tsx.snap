@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User 1`] = `
+<div
+  className="ui items user"
+>
+  <div
+    className="item"
+  >
+    <div
+      className="ui mini image"
+      href={undefined}
+    >
+      <img
+        src="https://ya.ru/favicon.ico"
+      />
+    </div>
+    <div
+      className="content"
+    >
+      <h5
+        className="header"
+      >
+        <a
+          onClick={[Function]}
+          style={Object {}}
+        >
+          John Doe
+        </a>
+      </h5>
+      <div
+        className="description"
+      >
+        ID: 
+        1
+      </div>
+    </div>
+  </div>
+</div>
+`;

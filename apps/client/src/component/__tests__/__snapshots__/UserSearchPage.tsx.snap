@@ -1,0 +1,2271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`next button should be disabled when next page not defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui divider"
+    />
+    <button
+      className="ui disabled left floated button"
+      disabled={true}
+      id="prev"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Prev page
+    </button>
+    <button
+      className="ui disabled right floated button"
+      disabled={true}
+      id="next"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Next page
+    </button>
+  </div>
+</div>
+`;
+
+exports[`next button should be enabled when next page defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui divider"
+    />
+    <button
+      className="ui disabled left floated button"
+      disabled={true}
+      id="prev"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Prev page
+    </button>
+    <button
+      className="ui right floated button"
+      disabled={undefined}
+      id="next"
+      onClick={[Function]}
+      role="button"
+      tabIndex={undefined}
+    >
+      Next page
+    </button>
+  </div>
+</div>
+`;
+
+exports[`prev button should be disabled when prev page not defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui divider"
+    />
+    <button
+      className="ui disabled left floated button"
+      disabled={true}
+      id="prev"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Prev page
+    </button>
+    <button
+      className="ui disabled right floated button"
+      disabled={true}
+      id="next"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Next page
+    </button>
+  </div>
+</div>
+`;
+
+exports[`prev button should be enabled when prev page defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui divider"
+    />
+    <button
+      className="ui left floated button"
+      disabled={undefined}
+      id="prev"
+      onClick={[Function]}
+      role="button"
+      tabIndex={undefined}
+    >
+      Prev page
+    </button>
+    <button
+      className="ui disabled right floated button"
+      disabled={true}
+      id="next"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Next page
+    </button>
+  </div>
+</div>
+`;
+
+exports[`when users are defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div>
+    <div
+      className="ui grid"
+    >
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                1
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                3
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                4
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                5
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                6
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                7
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                8
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="four wide column"
+      >
+        <div
+          className="ui items user"
+        >
+          <div
+            className="item"
+          >
+            <div
+              className="ui mini image"
+              href={undefined}
+            >
+              <img
+                src="https://www.google.com/favicon.ico"
+              />
+            </div>
+            <div
+              className="content"
+            >
+              <h5
+                className="header"
+              >
+                <a
+                  onClick={[Function]}
+                  style={Object {}}
+                >
+                  John Doe
+                </a>
+              </h5>
+              <div
+                className="description"
+              >
+                ID: 
+                9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui divider"
+    />
+    <button
+      className="ui disabled left floated button"
+      disabled={true}
+      id="prev"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Prev page
+    </button>
+    <button
+      className="ui disabled right floated button"
+      disabled={true}
+      id="next"
+      onClick={[Function]}
+      role="button"
+      tabIndex={-1}
+    >
+      Next page
+    </button>
+  </div>
+</div>
+`;
+
+exports[`when users are not defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User search page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="ui text loader"
+  >
+    Loading
+  </div>
+</div>
+`;

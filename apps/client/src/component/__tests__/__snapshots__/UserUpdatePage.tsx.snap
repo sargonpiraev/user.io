@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user is defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User update page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="ui centered card"
+    href={undefined}
+    onClick={[Function]}
+  >
+    <img
+      className="ui image"
+      src="https://www.google.com/favicon.ico"
+      width="100%"
+    />
+    <div
+      className="content"
+    >
+      <div
+        className="header"
+      >
+        <div>
+          <span
+            id="name"
+          >
+            John Doe
+          </span>
+           
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+            onClick={[Function]}
+          />
+        </div>
+      </div>
+      <div
+        className="description"
+      >
+        ID: 
+        1
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`user is not defined 1`] = `
+<div
+  className="ui container"
+  style={
+    Object {
+      "padding": "1rem 0",
+    }
+  }
+>
+  <h1
+    className="ui header"
+  >
+    User update page
+  </h1>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="ui text loader"
+  >
+    Loading
+  </div>
+</div>
+`;
